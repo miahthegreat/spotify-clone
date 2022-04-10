@@ -29,7 +29,7 @@ function Sidebar() {
           <div className="flex items-center justify-start flex-shrink-0 px-4">
             <img className="h-8 w-auto" src={logo.src} alt="Spotify" />
             <span className="text-white font-medium text-2xl px-4">
-              Spawtify
+              Spotify
             </span>
           </div>
           <div>
