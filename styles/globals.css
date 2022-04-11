@@ -1,3 +1,43 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555555;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #898989;
+}
+
+/* width */
+.playlist::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.playlist::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+/* Handle */
+.playlist::-webkit-scrollbar-thumb {
+  background: #555555;
+}
+
+/* Handle on hover */
+.playlist::-webkit-scrollbar-thumb:hover {
+  background: #898989;
+}

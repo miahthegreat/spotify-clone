@@ -27,7 +27,7 @@ const grid = [
 
 function GoodEveningSection() {
   return (
-    <SectionLayout title="Good evening" heading="3xl">
+    <SectionLayout title="Good evening" heading="6xl">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 px-2">
         {grid.map((item, idx) => {
           return (
