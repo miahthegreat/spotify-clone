@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Spotify Clone (frontend only)
+
+It is a [Next.js](https://nextjs.org/) bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+It is styled with [TailwindCSS](https://tailwindcss.com), [HeadlessUI](https://headlessui.dev), and [HeroIcons](https://heroicons.com/)
 
 ## Getting Started
 

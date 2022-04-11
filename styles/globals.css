@@ -4,7 +4,7 @@
 
 /* width */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 5px;
 }
 
 /* Track */
@@ -24,7 +24,7 @@
 
 /* sidebar width */
 .playlist::-webkit-scrollbar {
-  width: 10px;
+  width: 5px;
 }
 
 /* sidebar Track */
