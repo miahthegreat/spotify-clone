@@ -1,8 +1,10 @@
 ## Spotify Clone (frontend only)
 
-It is a [Next.js](https://nextjs.org/) bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Built with [Next.js](https://nextjs.org/) bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-It is styled with [TailwindCSS](https://tailwindcss.com), [HeadlessUI](https://headlessui.dev), and [HeroIcons](https://heroicons.com/)
+Styled with [TailwindCSS](https://tailwindcss.com), [HeadlessUI](https://headlessui.dev), and [HeroIcons](https://heroicons.com/)
+
+Demo can be found here: [Click Me](https://spotify-clone-lilac.vercel.app/)
 
 ## Getting Started
 
