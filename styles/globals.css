@@ -22,22 +22,22 @@
   background: #898989;
 }
 
-/* width */
+/* sidebar width */
 .playlist::-webkit-scrollbar {
   width: 10px;
 }
 
-/* Track */
+/* sidebar Track */
 .playlist::-webkit-scrollbar-track {
   background: #000000;
 }
 
-/* Handle */
+/* sidebar Handle */
 .playlist::-webkit-scrollbar-thumb {
-  background: #555555;
+  background: rgb(107 114 128 / 50%);
 }
 
-/* Handle on hover */
+/* sidebar Handle on hover */
 .playlist::-webkit-scrollbar-thumb:hover {
-  background: #898989;
+  background: rgb(107 114 128 / 70%);
 }

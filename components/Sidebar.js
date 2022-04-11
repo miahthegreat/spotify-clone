@@ -150,16 +150,15 @@ function Sidebar() {
               </nav>
             </div>
           </div>
-          <div className="playlist flex flex-col p-4 space-y-2 overflow-y-scroll mb-12">
+          <div className="relative playlist flex flex-col p-4 space-y-2 overflow-y-auto h-[calc(100%-22.4rem)]">
             {radioplaylists.map((item, idx) => {
               return (
-                <a
-                  href={item.href}
+                <div
                   key={idx}
-                  className="text-gray-500 hover:text-gray-300 text-sm text-ellipsis truncate"
+                  className="text-gray-500 hover:text-gray-300 text-sm"
                 >
-                  {item.name}
-                </a>
+                  <a href={item.href}>{item.name}</a>
+                </div>
               );
             })}
           </div>
